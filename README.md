@@ -10,20 +10,20 @@
   <img align="left" alt="AmineSpired | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amineamanzou.amineamanzou)
+![](https://visitor-badge.glitch.me/badge?page_id=amineamanzou.amineamanzou)
 
 <br />
 
 My name is [Amine Amanzou](https://amineamanzou.fr), i like building stuff and experimenting techs. 
 I started as a backend web developper and got into DevOps, only the futur will tell us what's the next step  🚀
 
-** Learning in progress:**
+**Learning in progress:**
 
 - 🤔 Javascript for more full stack skills
 - ⚡ Web3 projects and smart contract stuff
 - Kubernet on AWS & Digital Ocean
 
-** Languages and Tools:**
+**Languages and Tools:**
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -43,6 +43,6 @@ I started as a backend web developper and got into DevOps, only the futur will t
 
 
 <!-- Stats -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amineamanzou" alt="Amine Amanzou" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amineamanzou&theme=github_dark" alt="Amine Amanzou" />
 
 
