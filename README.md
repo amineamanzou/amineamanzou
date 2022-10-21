@@ -15,13 +15,13 @@
 <br />
 
 My name is [Amine Amanzou](https://amineamanzou.fr), i like building stuff and experimenting techs. 
-I started as a backend web developper and got into DevOps, only the futur will tell us what's the next step  🚀
+I started as a backend web developper and got into system administration then DevOps, only the futur will tell us what's the next step  🚀
 
 **Learning in progress:**
 
-- 🤔 Javascript for more full stack skills
+- 🤔 Golang for an alternative to Python
 - ⚡ Web3 projects and smart contract stuff
-- Kubernetes on AWS & Digital Ocean
+- Kubernetes on AWS or GCP
 
 **Languages and Tools:**
 
