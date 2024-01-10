@@ -1,13 +1,13 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/amineamanzour">
-  <img align="left" alt="Amine Amanzou | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/amineamanzou">
+  <img align="left" alt="Amine Amanzou | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/black/dark" />
 </a>
 <a href="https://www.linkedin.com/in/amineamanzou/">
-  <img align="left" alt="Amine Amanzou | LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Amine Amanzou | Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/black/dark" />
 </a>
 <a href="https://www.instagram.com/aminespired/">
-  <img align="left" alt="AmineSpired | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="AmineSpired | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/dark" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amineamanzou.amineamanzou)
@@ -20,25 +20,25 @@ I started as a backend web developper and got into system administration then De
 **Learning in progress:**
 
 - 🤔 Golang for an alternative to Python
-- ⚡ Web3 projects and smart contract stuff
-- Kubernetes on AWS or GCP
+- ⚡ Cloud and infrastructure as code projects
+- Kubernetes
 
 **Languages and Tools:**
 
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-black?style=flat-square&logo=Dynatrace)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=Ansible)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=zsh)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 <br />
 
