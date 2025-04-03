@@ -1,10 +1,10 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/amineamanzou">
-  <img align="left" alt="Amine Amanzou | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/black/dark" />
+<a href="https://x.com/amineamanzou">
+  <img align="left" alt="Amine Amanzou | X" width="22px" src="https://cdn.simpleicons.org/x/black/dark" />
 </a>
 <a href="https://www.linkedin.com/in/amineamanzou/">
-  <img align="left" alt="Amine Amanzou | Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/black/dark" />
+  LinkedIn
 </a>
 <a href="https://www.instagram.com/aminespired/">
   <img align="left" alt="AmineSpired | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/dark" />
